@@ -68,56 +68,57 @@
                               </div>
                           </div>
                           <div class="col-md-4 col-sm-12">
-                           <div class="logo-area text-center">
-                            <a href="index.html"><img src="images/logo.png" alt="logo"></a>
+                             <div class="logo-area text-center">
+                                <a href="index.html"><img src="images/logo.png" alt="logo"></a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-sm-4 hidden-xs hidden-sm">
-                       <div class="toolbar-share-icon">
-                        <ul>
-                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                         <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                         <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
-                         <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                     </ul>
-                 </div> 
-             </div>
-         </div>
-     </div>
-     <div class="main-menu">
-         <div class="container">
-          <div class="row">
-           <div class="col-sm-12">
-            <div id="logo-sticky" class="text-center">
-             <a href="index.php"><img src="images/logo.png" alt="logo"></a>
-         </div>
-         <a class="rs-menu-toggle"><i class="fa fa-bars"></i>Menu</a><!--  responsive mobilde gelen menü bu... -->
-         <nav class="rs-menu">
+                        <div class="col-sm-4 hidden-xs hidden-sm">
+                         <div class="toolbar-share-icon">
+                            <ul>
+                               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                               <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
+                               <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                           </ul>
+                       </div> 
+                   </div>
+               </div>
+           </div>
+           <div class="main-menu">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-sm-12">
+                        <div id="logo-sticky" class="text-center">
+                           <a href="index.php"><img src="images/logo.png" alt="logo"></a>
+                       </div>
+                       <a class="rs-menu-toggle"><i class="fa fa-bars"></i>Menu</a><!--  responsive mobilde gelen menü bu... -->
+                       <nav class="rs-menu">
 
-             <ul class="nav-menu">
-              <li class="current-menu-item current_page_item"> <a href="index.php" class="home">ANASAYFA</a>
-              </li>
-              <li class="menu-item-has-children"> <a href="#">KURUMSAL</a>
-                <ul class="sub-menu">
-                    <li><a href="about.php">HAKKIMIZDA</a></li>
-                    <li><a href="#">BAŞKANIN MESAJI</a></li>
-                    <li><a href="#">VİZYON MİSYON</a></li>
-                </ul>
+                           <ul class="nav-menu">
+                              <li class="current-menu-item current_page_item"> <a href="index.php" class="home">ANASAYFA</a>
+                              </li>
+                              <li class="menu-item-has-children"> <a href="#">KURUMSAL</a>
+                                <ul class="sub-menu">
+                                    <li><a href="about.php">HAKKIMIZDA</a></li>
+                                    <li><a href="#">BAŞKANIN MESAJI</a></li>
+                                    <li><a href="#">VİZYON MİSYON</a></li>
+                                </ul>
 
-            </li>
-            <li class=""> <a href="services.php">NELER YAPIYORUZ</a></li>
+                            </li>
+                            <li class=""> <a href="services.php">NELER YAPIYORUZ</a></li>
 
 
-            <li class=""> <a href="project.php">PROJELERİMİZ</a></li>
+                            <li class=""> <a href="project.php">PROJELERİMİZ</a></li>
 
-            <li class=""> <a href="iletisim.php">İLETİŞİM</a></li>
-        </ul>
-    </nav>
-</div>
-</div>
-</div>
-</div>
+                            <li class=""> <a href="iletisim.php">İLETİŞİM</a></li>
+                            <li class=""> <a href="#">GITHUB</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- Header Menu End -->
 </header>
