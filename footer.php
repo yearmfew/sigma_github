@@ -38,7 +38,7 @@
                         <div class="col-md-3">
                             <h3 class="footer-title">customer</h3>
                             <ul class="sitemap-widget">
-                                <li class="active"><a href="about.html">About</a></li>
+                                <li class="active"><a href="about.html">About about ne  hakkında aboıut</a></li>
                                 <li><a href="services.html">Service</a></li>
                                 <li><a href="project.html">Project</a></li>
                                 <li><a href="blog.html">Blog</a></li>
