@@ -29,7 +29,7 @@
                                         <span>June</span>
                                     </div>
                                     <div class="post-desc">
-                                        <h3 class="post-title"><a href="blog-details.html">Welcome to Construction Theme</a></h3>
+                                        <h3 class="post-title"><a href="blog-details.html">Welcome to Construction Theme naber nasılsın nasıl gifiyodashjhfasdlk</a></h3>
                                         <span class="post-category">Design</span>
                                     </div>
                                 </div>
