@@ -31,7 +31,13 @@
      <div class="col-md-12">
       <div class="content-details text-center">
        <h1 data-animation="animated bounceInDown">Reliable Engineering <br> Takes Many Forms</h1>
-       <p data-animation="animated fadeInLeft">Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs. </p>
+       <p data-animation="animated fadeInLeft">Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs.
+
+        bu satırları linux mint ile ekliyoruz....
+        ancak commit etmekte sıkıntı yaşıyoruz
+
+
+        </p>
        <a href="#" class="sl-btn" data-animation="animated fadeInLeft">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
    </div>
 </div>
